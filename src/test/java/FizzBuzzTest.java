@@ -28,4 +28,16 @@ public class FizzBuzzTest {
         assertEquals("buzz", actual);
 
     }
+    @Test
+    void fizzBuzzTestFor15(){
+        // GIVEN
+        int number = 15;
+
+        // WHEN
+        String actual = FizzBuzz.fizzBuzz(number);
+
+        // THEN
+        assertEquals("fizzbuzz", actual);
+
+    }
 }
