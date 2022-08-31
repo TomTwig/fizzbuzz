@@ -52,6 +52,6 @@ public class FizzBuzzTest {
         String actual = FizzBuzz.fizzBuzz(number);
 
         // THEN
-        assertEquals(" ", actual);
+        assertEquals("4", actual);
     }
 }
