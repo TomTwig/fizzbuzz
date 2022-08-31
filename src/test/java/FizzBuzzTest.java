@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FizzBuzzTest {
     @Test
-    void fizzBuzzTestFor3(){
+    void fizzBuzzTestFor3() {
         // GIVEN
         int number = 3;
 
@@ -16,8 +16,9 @@ public class FizzBuzzTest {
         assertEquals("fizz", actual);
 
     }
+
     @Test
-    void fizzBuzzTestFor5(){
+    void fizzBuzzTestFor5() {
         // GIVEN
         int number = 5;
 
@@ -28,8 +29,9 @@ public class FizzBuzzTest {
         assertEquals("buzz", actual);
 
     }
+
     @Test
-    void fizzBuzzTestFor15(){
+    void fizzBuzzTestFor15() {
         // GIVEN
         int number = 15;
 
@@ -39,5 +41,17 @@ public class FizzBuzzTest {
         // THEN
         assertEquals("fizzbuzz", actual);
 
+    }
+
+    @Test
+    void fizzBuzzTestFor4() {
+        // GIVEN
+        int number = 4;
+
+        // WHEN
+        String actual = FizzBuzz.fizzBuzz(number);
+
+        // THEN
+        assertEquals(" ", actual);
     }
 }
