@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add7860c-ec5a-4b46-a2ee-75356549ad0a" name="Changes" comment="Fix Tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="add7860c-ec5a-4b46-a2ee-75356549ad0a" name="Changes" comment="Fixed warning in terms of version-release" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661953878119</updated>
-      <workItem from="1661953879351" duration="16969000" />
+      <workItem from="1661953879351" duration="17468000" />
     </task>
     <task id="LOCAL-00001" summary="Test-driven-development">
       <created>1661955063568</created>
@@ -135,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662041190580</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fixed warning in terms of version-release">
+      <created>1662042511547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662042511547</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +164,7 @@
     <MESSAGE value="Adding surefire-plugin" />
     <MESSAGE value="Break Test" />
     <MESSAGE value="Fix Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Tests" />
+    <MESSAGE value="Fixed warning in terms of version-release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed warning in terms of version-release" />
   </component>
 </project>
