@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add7860c-ec5a-4b46-a2ee-75356549ad0a" name="Changes" comment="FizzBuzz code little update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IfTaskAlarm.java" afterDir="false" />
+    <list default="true" id="add7860c-ec5a-4b46-a2ee-75356549ad0a" name="Changes" comment="Fix Tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -79,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661953878119</updated>
-      <workItem from="1661953879351" duration="15630000" />
+      <workItem from="1661953879351" duration="16969000" />
     </task>
     <task id="LOCAL-00001" summary="Test-driven-development">
       <created>1661955063568</created>
@@ -116,7 +114,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662019999066</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding surefire-plugin">
+      <created>1662040960093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662040960093</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Break Test">
+      <created>1662041136802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662041136802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix Tests">
+      <created>1662041190580</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662041190580</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +156,9 @@
     <MESSAGE value="Test-driven-development" />
     <MESSAGE value="Test-driven-development Succeeded" />
     <MESSAGE value="FizzBuzz code little update" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz code little update" />
+    <MESSAGE value="Adding surefire-plugin" />
+    <MESSAGE value="Break Test" />
+    <MESSAGE value="Fix Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Tests" />
   </component>
 </project>
