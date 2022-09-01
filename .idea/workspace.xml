@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add7860c-ec5a-4b46-a2ee-75356549ad0a" name="Changes" comment="Test-driven-development">
+    <list default="true" id="add7860c-ec5a-4b46-a2ee-75356549ad0a" name="Changes" comment="Test-driven-development Succeeded">
+      <change afterPath="$PROJECT_DIR$/src/main/java/greetings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661953878119</updated>
-      <workItem from="1661953879351" duration="7064000" />
+      <workItem from="1661953879351" duration="12004000" />
     </task>
     <task id="LOCAL-00001" summary="Test-driven-development">
       <created>1661955063568</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661960748551</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test-driven-development Succeeded">
+      <created>1661961166095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661961166095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test-driven-development" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test-driven-development" />
+    <MESSAGE value="Test-driven-development Succeeded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test-driven-development Succeeded" />
   </component>
 </project>
